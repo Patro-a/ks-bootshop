@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Background shades -->
+    <color name="bg_dark">#080810</color>
+    <color name="bg_surface">#10101C</color>
+
+    <!-- JARVIS blue accent -->
+    <color name="accent_blue">#00C8FF</color>
+    <color name="accent_blue_dim">#00243A</color>
+
+    <!-- Text -->
+    <color name="text_primary">#E2E8F0</color>
+    <color name="text_secondary">#64748B</color>
+
+    <!-- Chat bubbles -->
+    <color name="bubble_user">#1A3A5C</color>
+    <color name="bubble_jarvis">#141428</color>
+    <color name="bubble_jarvis_border">#1E1E40</color>
+
+    <!-- State dot colours -->
+    <color name="dot_idle">#374151</color>
+    <color name="dot_listening">#00C8FF</color>
+    <color name="dot_thinking">#F59E0B</color>
+    <color name="dot_speaking">#10B981</color>
+</resources>

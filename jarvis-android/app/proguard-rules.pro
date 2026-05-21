@@ -1,0 +1,6 @@
+-keep class com.jarvis.assistant.ai.** { *; }
+-keep class com.jarvis.assistant.tts.** { *; }
+-keepattributes Signature
+-keepattributes *Annotation*
+-dontwarn okhttp3.**
+-dontwarn okio.**
