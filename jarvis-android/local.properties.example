@@ -1,0 +1,7 @@
+# Copy this file to local.properties and fill in your keys.
+# local.properties is git-ignored so your keys stay private.
+
+sdk.dir=/path/to/your/android/sdk
+
+openai.api.key=sk-...your-openai-key-here...
+elevenlabs.api.key=...your-elevenlabs-key-here...
